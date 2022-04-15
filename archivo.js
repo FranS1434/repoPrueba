@@ -11,4 +11,5 @@ archivos uno al lado del otro. A ESTO SE LO CONOCE COMO
 AGREGAR A ESTANCIA DE STAGE */
 console.log("hola mundo");
 
+console.log("este este va ser otro cambio al archivo")
 console.log("este este va ser otro cambio al archivo");
