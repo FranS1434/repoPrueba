@@ -10,3 +10,5 @@ extension. Tambien se pueden poner los nombres de todos los
 archivos uno al lado del otro. A ESTO SE LO CONOCE COMO 
 AGREGAR A ESTANCIA DE STAGE */
 console.log("hola mundo");
+
+console.log("este este va ser otro cambio al archivo");
